@@ -1,0 +1,25 @@
+@startsalt
+{
+{T
++ TychoProject
+++ bundles
++++ eclipse plugin projects
++++ pom.xml
+++ features
++++ eclipse feature projects
++++ pom.xml
+++ product
++++ product project
+++++ pom.xml
++++ updatesite project
+++++ pom.xml
++++ pom.xml
+++ releng
++++ pom.xml
+++ tests
++++ eclipse plugin test projects 
++++ pom.xml
+++ pom.xml
+}
+}
+@endsalt
