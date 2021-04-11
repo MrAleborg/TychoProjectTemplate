@@ -1,22 +1,22 @@
 @startsalt
 {
 {T
-+ TychoProject
-++ bundles
++ **TychoProject**
+++ **bundles**
 +++ eclipse plugin projects
 +++ pom.xml
-++ features
+++ **features**
 +++ eclipse feature projects
 +++ pom.xml
-++ product
+++ **product**
 +++ product project
 ++++ pom.xml
 +++ updatesite project
 ++++ pom.xml
 +++ pom.xml
-++ releng
+++ **releng**
 +++ pom.xml
-++ tests
+++ **tests**
 +++ eclipse plugin test projects 
 +++ pom.xml
 ++ pom.xml
